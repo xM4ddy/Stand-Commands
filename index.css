@@ -1,0 +1,25 @@
+@import url(https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css);
+
+body {
+    background: #2d2d32;
+    color: white;
+    font-family: "Fira Code", monospace;
+    font-size: 1.1em;
+}
+
+#content {
+    width: 90%;
+    margin: auto;
+}
+
+#search_box {
+    padding: 0.4em 0;
+}
+
+pre {
+    padding: 1em;
+    overflow: scroll;
+    border: 2px solid #ffaebc;
+    background: #181b1f;
+    height: 40vh;
+}
